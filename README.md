@@ -251,3 +251,28 @@ Once submitted, the booking is saved in the database, and users can view or mana
 ![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/e2e00094205e1c449698c1a533a8694a2a19e014/Destination%20Page.png)
 
 Destination
+
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/969575643d3eb531cafc881680efe5bea2550e22/Payment.png)
+
+💳 Payment Page
+
+The Payment Page allows users to complete their booking by securely paying for packages or hotel reservations through multiple digital payment options.
+
+🧾 Available Payment Options:
+💰 General Payment – Manual entry of payment amount and confirmation
+
+📱 PhonePe – UPI-based digital payment through the PhonePe app
+
+🟢 Google Pay – Fast and secure UPI transaction using Google Pay
+
+🧾 Additional Fields:
+🧑 User ID / Username – For identifying the user making the payment
+
+🔢 Booking ID or Reference – To link the payment with a specific booking
+
+📞 Phone Number – Contact number used during the transaction
+
+💵 Total Amount – Final payable amount calculated from booking details
+
+After a successful transaction, a confirmation is shown and stored in the database, ensuring traceability and security.
