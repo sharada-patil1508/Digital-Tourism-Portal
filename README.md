@@ -62,3 +62,31 @@ The Dashboard provides easy access to all major functionalities of the Digital T
 ℹ️ About Us – Learn more about the application.
 
 🔒 Logout – Safely exit the application.
+
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/832b5a2c3fc4f791bbe6403e074a380410234238/Personal%20Details.png)
+
+👥 Personal Details Form
+The Personal Details section allows users to enter and update their basic information, which is stored securely in the MySQL database. This information is essential for booking and identification purposes.
+
+Fields included:
+
+🧑 Username – Unique login name of the user
+
+🆔 User ID – System-generated unique identifier
+
+🔢 ID Number – A government ID number (e.g., passport or Aadhaar)
+
+📛 Name – Full name of the user
+
+🚻 Gender – Male, Female, or Other
+
+🌍 Country – User’s nationality
+
+🏠 Address – Full residential address
+
+📞 Phone Number – Valid contact number
+
+📧 Email Address – User’s email for communication
+
+This form ensures that all essential details are collected for a smooth travel and booking experience.
