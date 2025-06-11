@@ -172,3 +172,26 @@ The Gold Package is designed for travelers who seek comfort, convenience, and a 
 📱 24/7 Travel Support – Dedicated customer support throughout the journey
 
 This package offers a perfect balance between affordability and luxury, making it ideal for couples, families, and solo travelers who want a hassle-free, memorable vacation.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/98b76bc768567d36c9ef64405d0386514821b063/Book%20Package.png)
+
+📦 Book Package Page
+
+The Book Package page allows users to select and confirm their travel package based on their preferences. The user fills in important booking details which are then stored in the MySQL database.
+
+📝 Fields in the Booking Form:
+🧑 Username – Name of the user booking the package
+
+📦 Select Package – Choose from available packages (e.g., Silver, Gold, Platinum)
+
+👥 Total Persons – Number of people included in the booking
+
+🆔 User ID – Unique ID associated with the user
+
+🔢 ID Number – Government-issued ID (e.g., Aadhaar or Passport)
+
+📞 Phone Number – User's contact number for confirmation and updates
+
+💰 Total Price – Auto-calculated based on selected package and number of persons
+
+Once the form is submitted, the selected package is confirmed, and all data is securely saved for further processing like hotel booking and payment.
