@@ -90,3 +90,31 @@ Fields included:
 📧 Email Address – User’s email for communication
 
 This form ensures that all essential details are collected for a smooth travel and booking experience.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/eabf775589df8bee5bcd3965bb3ebec72d4d425a/Update%20Customer%20Page.png)
+
+🛠️ Update Customer Details Page
+
+The Update Customer Details page allows users to modify or correct their previously entered personal information. This ensures that all user records remain accurate and up to date in the system.
+
+Fields available for update:
+
+🧑 Username – Unique login name of the user
+
+🆔 User ID – System-generated unique identifier
+
+🔢 ID Number – Government-issued ID (e.g., Passport or Aadhaar)
+
+📛 Name – Full name of the customer
+
+🚻 Gender – Choose between Male, Female, or Other
+
+🌍 Country – User's nationality or country of residence
+
+🏠 Address – Complete residential address
+
+📞 Phone Number – Mobile or landline contact number
+
+📧 Email Address – Email used for updates and communication
+
+This page helps maintain clean and correct data for all users in the system.
