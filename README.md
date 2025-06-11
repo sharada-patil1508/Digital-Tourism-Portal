@@ -195,3 +195,24 @@ The Book Package page allows users to select and confirm their travel package ba
 💰 Total Price – Auto-calculated based on selected package and number of persons
 
 Once the form is submitted, the selected package is confirmed, and all data is securely saved for further processing like hotel booking and payment.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/fcf0169afdb1d33b3a288ec9a7c6825dc2de19b2/View%20Package.png)
+
+📄 View Booked Package Details Page
+
+The View Booked Package Details page displays the details of travel packages that a user has already booked. This page helps users verify their booking information quickly and accurately.
+
+📋 Displayed Fields:
+🧑 Username – Name of the user who booked the package
+
+📦 Package Name – The selected travel package (e.g., Gold, Silver)
+
+🆔 User ID – Unique identifier assigned to the user
+
+🔢 ID Number – Government-issued ID used for booking (e.g., Aadhaar, Passport)
+
+📞 Phone Number – Contact number provided at the time of booking
+
+💰 Total Price – Final price based on selected package and number of persons
+
+This section ensures users can view and verify their package booking details anytime after confirmation.
