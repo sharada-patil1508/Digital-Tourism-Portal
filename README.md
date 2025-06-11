@@ -21,3 +21,9 @@ Along with three key buttons:
 ❌ Close – Exits the application safely
 
 This login mechanism ensures that only authorized users can access the tourism management system, helping maintain security and user-specific access control. All login credentials are validated against records stored in the MySQL backend.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/2fd53bea3e557ca15c870555cef2541d692a8aaa/Loading%20Page.png)
+
+⏳ Loading Page
+
+The Loading Page is the initial screen that appears when the Digital Tourism Port application is launched. Created using Java Swing, this screen simulates a startup animation or progress bar to indicate that the system is loading the necessary resources in the background.
