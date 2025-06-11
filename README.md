@@ -276,3 +276,20 @@ The Payment Page allows users to complete their booking by securely paying for p
 💵 Total Amount – Final payable amount calculated from booking details
 
 After a successful transaction, a confirmation is shown and stored in the database, ensuring traceability and security.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/1dcd2eb11407fcf7a9feee57f3c1904f1e5ec3c8/Delete%20All.png)
+
+🗑️ Delete All Details
+
+The Delete All Details feature allows users or administrators to permanently remove all stored information related to a specific user or booking from the system.
+
+🧹 Data That Can Be Deleted:
+👤 Personal Details – Username, contact info, ID details
+
+📦 Booked Packages – Package selection, price, and travel data
+
+🏨 Hotel Bookings – Room type, hotel name, number of days
+
+💳 Payment Records – Payment method, amount, transaction info
+
+This option ensures that users have full control over their data. Once deleted, the records are completely removed from the MySQL database and cannot be recovered.
