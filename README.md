@@ -216,3 +216,7 @@ The View Booked Package Details page displays the details of travel packages tha
 💰 Total Price – Final price based on selected package and number of persons
 
 This section ensures users can view and verify their package booking details anytime after confirmation.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/ff3dec23b9b89222626ca2a4d040adf69ad34617/Hotel%20Page.png)
+
+Hotel
