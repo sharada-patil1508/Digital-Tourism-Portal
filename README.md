@@ -146,3 +146,29 @@ Displayed fields:
 📧 Email Address – Registered email for communication
 
 This page ensures easy access to customer information for quick reference or verification.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/7f55aa270d93b42bf899592d80cebe1b9dc2f69f/Package%20Page.png)
+
+🏆 Gold Package – Premium Travel Experience
+The Gold Package is designed for travelers who seek comfort, convenience, and a touch of luxury. It includes exclusive features that make your journey truly unforgettable.
+
+✨ Key Features:
+✈️ Round-Trip Flights – Includes economy or premium class air travel
+
+🏨 4-Star Hotel Stay – Comfortable accommodation with breakfast included
+
+🍽️ Free Meals – Breakfast and dinner provided daily
+
+🚗 Local Transport – Free airport pickup, drop, and sightseeing cab
+
+🎟️ Guided Tours – Entry tickets to popular attractions and guided tours included
+
+📸 Complimentary Photoshoot – One travel photoshoot session at a scenic location
+
+🌐 Free Travel Insurance – Coverage for the entire trip duration
+
+🎁 Welcome Kit – Includes travel essentials and a souvenir
+
+📱 24/7 Travel Support – Dedicated customer support throughout the journey
+
+This package offers a perfect balance between affordability and luxury, making it ideal for couples, families, and solo travelers who want a hassle-free, memorable vacation.
