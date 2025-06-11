@@ -247,3 +247,7 @@ The Book Hotel page allows users to reserve hotel rooms as part of their travel 
 💰 Total Price – Auto-calculated based on room type, days, food, and number of persons
 
 Once submitted, the booking is saved in the database, and users can view or manage their hotel reservation through the dashboard.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/e2e00094205e1c449698c1a533a8694a2a19e014/Destination%20Page.png)
+
+Destination
