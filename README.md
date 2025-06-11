@@ -220,3 +220,30 @@ This section ensures users can view and verify their package booking details any
 ![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/ff3dec23b9b89222626ca2a4d040adf69ad34617/Hotel%20Page.png)
 
 Hotel
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/ff89d386ce0e2275f03bd0aa68b4223122110c3a/Book%20Hotel.png)
+
+🏨 Book Hotel Page
+
+The Book Hotel page allows users to reserve hotel rooms as part of their travel plan. The form collects all necessary information to calculate the total cost and confirm the booking.
+
+📋 Fields in the Booking Form:
+🏨 Select Hotel – Choose from available hotel options
+
+👥 Total Persons – Number of people staying in the room
+
+📅 Number of Days – Duration of the hotel stay
+
+❄️ AC / Non-AC – Select room type (Air-conditioned or Non-AC)
+
+🍽️ Food – Include food services (Yes/No)
+
+🆔 User ID – Unique identifier of the user
+
+🔢 ID Number – Government-issued ID used for verification
+
+📞 Phone Number – Contact number of the person booking
+
+💰 Total Price – Auto-calculated based on room type, days, food, and number of persons
+
+Once submitted, the booking is saved in the database, and users can view or manage their hotel reservation through the dashboard.
