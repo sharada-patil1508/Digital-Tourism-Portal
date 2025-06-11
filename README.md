@@ -118,3 +118,31 @@ Fields available for update:
 📧 Email Address – Email used for updates and communication
 
 This page helps maintain clean and correct data for all users in the system.
+
+![alt image](https://github.com/sharada-patil1508/Digital-Tourism-Portal/blob/1a3f3f239910ca363da73f70d5ba1f22a7088752/View%20Customer%20Page.png)
+
+📋 View Customer Details Page
+
+The View Customer Details page displays all saved user information in a structured format. It helps administrators or users to review their data at a glance without making any changes.
+
+Displayed fields:
+
+🧑 Username – Unique login name of the user
+
+🆔 User ID – System-generated unique identifier
+
+🔢 ID Number – Government-issued ID (e.g., Passport or Aadhaar)
+
+📛 Name – Full name of the customer
+
+🚻 Gender – Male, Female, or Other
+
+🌍 Country – Nationality of the user
+
+🏠 Address – Registered residential address
+
+📞 Phone Number – Contact number of the user
+
+📧 Email Address – Registered email for communication
+
+This page ensures easy access to customer information for quick reference or verification.
