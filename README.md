@@ -5,7 +5,6 @@ The Digital Tourism Port is a Java Swing-based desktop application designed to s
 
 🔐 Login Page
 
-
 The Login Page serves as the secure entry point to the Digital Tourism Port application. Designed using Java Swing, it features input fields for:
 
 Username
